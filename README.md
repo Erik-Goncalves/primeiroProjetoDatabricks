@@ -1,5 +1,5 @@
 ### Problema
-- Esse repositorio tem como objetivo estudar e aplicar conceitos das seguintes ferramentas:
+- Esse repositorio tem como objetivo estudar e aplicar conceitos
 
 ### Solução
 - 

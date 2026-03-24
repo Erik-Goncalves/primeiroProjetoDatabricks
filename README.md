@@ -15,7 +15,7 @@
 
 - Inclusão de descritivo via databricks com git conectado.
 
-- ![image.png](./image_1774380672304.png "image.png")
+- ![image.png](img/image_1774380672304.png "image.png")
 
 
 
